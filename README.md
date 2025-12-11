@@ -8,6 +8,6 @@ the dataset used contains socio-economic and demographic data of the 2,240 custo
 
 the deliverables of this projects are:
 
-	An exploration of the customer base.
-	Clustering and profiling of the customer base.
-	A predictive model to predict campagin results.
+- An exploration of the customer base.
+- Clustering and profiling of the customer base.
+- A predictive model to predict campagin results.
