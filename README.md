@@ -11,3 +11,14 @@ the deliverables of this projects are:
 - An exploration of the customer base.
 - Clustering and profiling of the customer base.
 - A predictive model to predict campagin results.
+
+-----
+
+Customer base exploration:
+- The median customer base is 50 years old, indicating mature demographics.
+   <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/793efd1f-3563-4bd6-96b6-285046bf5d9d" />
+   
+- household size is small, the average amount of childern per household is 0.75 with a maxinum of 3.
+- the highest amount is spend on wine products, with the average being skewed by an overspending group.
+- the median customer has spent 82 months with the company, with a mininum of 70 months. meaning the customer base are all loyal customers
+
