@@ -32,3 +32,25 @@ Customer base exploration:
 - the median customer has spent 82 months with the company, with a mininum of 70 months. meaning the customer base are all loyal customers
 
   <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/9b36d2e8-41fe-4e39-bacd-ebda07855c3e" />
+
+- the vast majority of the customer base holds a post-secondary degree, half of which hold a graduate degree. customers with a basic education are a fraction of the population.
+
+  <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/3d31ef5e-1cd2-4e0a-9685-8adca4048a24" />
+
+- couples (married and not) are the highest share of the population.
+
+  <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/93738d80-89d6-4e4e-a84a-76348f47b477" />
+
+- the wealthier the customer the higher the response rate (Lines indicate median values), customers with a yearly income of less than 20k USD spend signifigantly less than any other spending group.
+
+  <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/dce9a2af-3e4b-441f-9c9c-42855be23cd4" />
+  <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/34e9451e-e625-4118-8872-c282b2415e61" />
+
+
+- there's no signifigant link between age and response. and amount spent and recency.
+
+  <img width="650" height="250" alt="image" src="https://github.com/user-attachments/assets/d261be57-6fd7-4aeb-a67e-fa0d8d7b9d68" />
+
+
+
+
